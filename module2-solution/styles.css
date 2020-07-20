@@ -1,3 +1,13 @@
+*{
+  box-sizing : border-box;
+}
+
 #sec1{
   color:red;
+}
+
+@media(min-width: 992px){
+.box{
+  color:blue;
+  }
 }
