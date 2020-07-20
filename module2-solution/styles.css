@@ -1,7 +1,7 @@
 *{
   box-sizing : border-box;
 }
-
+background-color:red;
 
 @media(min-width: 1px){
 .box{
