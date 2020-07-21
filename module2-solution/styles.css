@@ -5,7 +5,7 @@
 
 @media (min-width: 992px){
 .col-lg-4{
-  float:left;
+  float:right;
   width:33%;
   }
 }
